@@ -1,20 +1,23 @@
-﻿// 1. AQUÍ INICIA TU PROGRAMA (Instrucciones principales)
+﻿// 1. FLUJO PRINCIPAL DEL PROGRAMA
 Console.WriteLine("=== CALCULADORA DE POLÍGONOS REGULARES ===");
 
-// Creamos la "caja" para guardar los datos de nuestro polígono
+// Creamos la estructura para guardar los datos
 PoligonoRegular miPoligono = new PoligonoRegular();
 
-// Paso 1: Seleccionar el polígono
+// Paso 1: Selección del polígono (Función 1)
 miPoligono.NumeroLados = SeleccionarPoligono();
 Console.WriteLine($"\n[Sistema]: Has elegido un polígono de {miPoligono.NumeroLados} lados.");
 
-// Paso 2: Pedir los datos (Le pasamos nuestro polígono para que lo llene y nos lo devuelva)
+// Paso 2: Validación y captura de datos (Función 2)
 miPoligono = PedirDatos(miPoligono);
 
+// Paso 3: Cálculo y despliegue del área (Función 3)
+CalcularArea(miPoligono);
 
-// 2. TUS FUNCIONES INDEPENDIENTES
 
-// Función 1: El Menú
+// 2. FUNCIONES INDEPENDIENTES
+
+// Función 1: Menú de selección
 int SeleccionarPoligono()
 {
     Console.WriteLine("\nSelecciona el polígono que deseas calcular:");
@@ -31,20 +34,19 @@ int SeleccionarPoligono()
     return 3;
 }
 
-// Función 2: Pedir y Validar Datos (Cumple el Diferenciador Profesional)
-PoligonoRegular PedirDatos(PoligonoRegular poligono)
+// Función 2: Captura y Validación (Diferenciador Profesional)
+PoligonoRegular PedirDatos(PoligonoRegular pol)
 {
     Console.WriteLine("\n--- REGISTRO DE MEDIDAS ---");
 
-    // Validar la medida del lado
+    // Validar el lado
     while (true)
     {
         Console.Write("Ingresa la medida del lado (Debe ser mayor a 0): ");
-        // TryParse intenta convertir el texto a número. Si puede y es mayor a 0, avanza.
         if (double.TryParse(Console.ReadLine(), out double lado) && lado > 0)
         {
-            poligono.MedidaLado = lado;
-            break; // Rompe el ciclo porque el dato es correcto
+            pol.MedidaLado = lado;
+            break;
         }
         Console.WriteLine("[Error]: Por favor introduce un número válido y positivo.");
     }
@@ -55,17 +57,37 @@ PoligonoRegular PedirDatos(PoligonoRegular poligono)
         Console.Write("Ingresa la medida de la apotema (Debe ser mayor a 0): ");
         if (double.TryParse(Console.ReadLine(), out double apotema) && apotema > 0)
         {
-            poligono.Apotema = apotema;
-            break; // Rompe el ciclo
+            pol.Apotema = apotema;
+            break;
         }
         Console.WriteLine("[Error]: Por favor introduce un número válido y positivo.");
     }
 
-    return poligono; // Devolvemos el polígono ya con sus datos guardados
+    return pol;
+}
+
+// Función 3: Cálculo matemático del Área (Paso Final)
+void CalcularArea(PoligonoRegular pol)
+{
+    Console.WriteLine("\n--- RESULTADOS FINALES ---");
+    
+    // Fórmula: Perímetro = Lados * Medida del lado
+    double perimetro = pol.NumeroLados * pol.MedidaLado;
+    
+    // Fórmula: Área = (Perímetro * Apotema) / 2
+    double area = (perimetro * pol.Apotema) / 2;
+
+    Console.WriteLine($"Polígono evaluado: {pol.NumeroLados} lados.");
+    Console.WriteLine($"Medida de cada lado: {pol.MedidaLado}");
+    Console.WriteLine($"Medida de la apotema: {pol.Apotema}");
+    Console.WriteLine($"Perímetro total: {perimetro}");
+    Console.WriteLine("-----------------------------------------");
+    Console.WriteLine($"¡El ÁREA TOTAL es: {area} unidades cuadradas!");
+    Console.WriteLine("-----------------------------------------");
 }
 
 
-// 3. TU CONTENEDOR DE DATOS
+// 3. CONTENEDOR DE DATOS (Estructura)
 struct PoligonoRegular
 {
     public int NumeroLados;
