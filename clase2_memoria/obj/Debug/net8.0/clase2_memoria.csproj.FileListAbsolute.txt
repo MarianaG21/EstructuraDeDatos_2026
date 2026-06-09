@@ -1,0 +1,15 @@
+C:\Users\manuel\Desktop\Estructura de datos\clase2_memoria\bin\Debug\net8.0\clase2_memoria.exe
+C:\Users\manuel\Desktop\Estructura de datos\clase2_memoria\bin\Debug\net8.0\clase2_memoria.deps.json
+C:\Users\manuel\Desktop\Estructura de datos\clase2_memoria\bin\Debug\net8.0\clase2_memoria.runtimeconfig.json
+C:\Users\manuel\Desktop\Estructura de datos\clase2_memoria\bin\Debug\net8.0\clase2_memoria.dll
+C:\Users\manuel\Desktop\Estructura de datos\clase2_memoria\bin\Debug\net8.0\clase2_memoria.pdb
+C:\Users\manuel\Desktop\Estructura de datos\clase2_memoria\obj\Debug\net8.0\clase2_memoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manuel\Desktop\Estructura de datos\clase2_memoria\obj\Debug\net8.0\clase2_memoria.AssemblyInfoInputs.cache
+C:\Users\manuel\Desktop\Estructura de datos\clase2_memoria\obj\Debug\net8.0\clase2_memoria.AssemblyInfo.cs
+C:\Users\manuel\Desktop\Estructura de datos\clase2_memoria\obj\Debug\net8.0\clase2_memoria.csproj.CoreCompileInputs.cache
+C:\Users\manuel\Desktop\Estructura de datos\clase2_memoria\obj\Debug\net8.0\clase2_memoria.sourcelink.json
+C:\Users\manuel\Desktop\Estructura de datos\clase2_memoria\obj\Debug\net8.0\clase2_memoria.dll
+C:\Users\manuel\Desktop\Estructura de datos\clase2_memoria\obj\Debug\net8.0\refint\clase2_memoria.dll
+C:\Users\manuel\Desktop\Estructura de datos\clase2_memoria\obj\Debug\net8.0\clase2_memoria.pdb
+C:\Users\manuel\Desktop\Estructura de datos\clase2_memoria\obj\Debug\net8.0\clase2_memoria.genruntimeconfig.cache
+C:\Users\manuel\Desktop\Estructura de datos\clase2_memoria\obj\Debug\net8.0\ref\clase2_memoria.dll
