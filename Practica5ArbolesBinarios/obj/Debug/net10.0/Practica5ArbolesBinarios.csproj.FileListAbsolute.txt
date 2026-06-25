@@ -1,0 +1,15 @@
+C:\Users\manuel\Desktop\Estructura de datos\Practica5ArbolesBinarios\bin\Debug\net10.0\Practica5ArbolesBinarios.exe
+C:\Users\manuel\Desktop\Estructura de datos\Practica5ArbolesBinarios\bin\Debug\net10.0\Practica5ArbolesBinarios.deps.json
+C:\Users\manuel\Desktop\Estructura de datos\Practica5ArbolesBinarios\bin\Debug\net10.0\Practica5ArbolesBinarios.runtimeconfig.json
+C:\Users\manuel\Desktop\Estructura de datos\Practica5ArbolesBinarios\bin\Debug\net10.0\Practica5ArbolesBinarios.dll
+C:\Users\manuel\Desktop\Estructura de datos\Practica5ArbolesBinarios\bin\Debug\net10.0\Practica5ArbolesBinarios.pdb
+C:\Users\manuel\Desktop\Estructura de datos\Practica5ArbolesBinarios\obj\Debug\net10.0\Practica5ArbolesBinarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manuel\Desktop\Estructura de datos\Practica5ArbolesBinarios\obj\Debug\net10.0\Practica5ArbolesBinarios.AssemblyInfoInputs.cache
+C:\Users\manuel\Desktop\Estructura de datos\Practica5ArbolesBinarios\obj\Debug\net10.0\Practica5ArbolesBinarios.AssemblyInfo.cs
+C:\Users\manuel\Desktop\Estructura de datos\Practica5ArbolesBinarios\obj\Debug\net10.0\Practica5ArbolesBinarios.csproj.CoreCompileInputs.cache
+C:\Users\manuel\Desktop\Estructura de datos\Practica5ArbolesBinarios\obj\Debug\net10.0\Practica5ArbolesBinarios.sourcelink.json
+C:\Users\manuel\Desktop\Estructura de datos\Practica5ArbolesBinarios\obj\Debug\net10.0\Practica5ArbolesBinarios.dll
+C:\Users\manuel\Desktop\Estructura de datos\Practica5ArbolesBinarios\obj\Debug\net10.0\refint\Practica5ArbolesBinarios.dll
+C:\Users\manuel\Desktop\Estructura de datos\Practica5ArbolesBinarios\obj\Debug\net10.0\Practica5ArbolesBinarios.pdb
+C:\Users\manuel\Desktop\Estructura de datos\Practica5ArbolesBinarios\obj\Debug\net10.0\Practica5ArbolesBinarios.genruntimeconfig.cache
+C:\Users\manuel\Desktop\Estructura de datos\Practica5ArbolesBinarios\obj\Debug\net10.0\ref\Practica5ArbolesBinarios.dll
