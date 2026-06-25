@@ -12,3 +12,4 @@ C:\Users\manuel\Desktop\Estructura de datos\calculadora_poligonos\obj\Debug\net8
 C:\Users\manuel\Desktop\Estructura de datos\calculadora_poligonos\obj\Debug\net8.0\calculadora_poligonos.pdb
 C:\Users\manuel\Desktop\Estructura de datos\calculadora_poligonos\obj\Debug\net8.0\calculadora_poligonos.genruntimeconfig.cache
 C:\Users\manuel\Desktop\Estructura de datos\calculadora_poligonos\obj\Debug\net8.0\ref\calculadora_poligonos.dll
+C:\Users\manuel\Desktop\Estructura de datos\calculadora_poligonos\obj\Debug\net8.0\calculadora_poligonos.sourcelink.json
