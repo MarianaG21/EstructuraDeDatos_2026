@@ -25,7 +25,7 @@ int SeleccionarPoligono()
     Console.WriteLine("2. Hexágono (6 lados)");
     Console.Write("Digita el número de tu opción: ");
 
-    string opcion = Console.ReadLine();
+    string? opcion = Console.ReadLine();
 
     if (opcion == "1") return 5;
     if (opcion == "2") return 6;
