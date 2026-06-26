@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Practica6ReferenciasYMemoria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a609757646ace0733a8f5f728af5eb2600ebda9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b5b25b6fd4259ff519ac80fa736b953feff204e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Practica6ReferenciasYMemoria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Practica6ReferenciasYMemoria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

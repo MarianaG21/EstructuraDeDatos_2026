@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica5ArbolesBinarios\\Practica5ArbolesBinarios.csproj": {}
+    "c:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica5ArbolesBinarios\\Practica5ArbolesBinarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica5ArbolesBinarios\\Practica5ArbolesBinarios.csproj": {
+    "c:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica5ArbolesBinarios\\Practica5ArbolesBinarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica5ArbolesBinarios\\Practica5ArbolesBinarios.csproj",
+        "projectUniqueName": "c:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica5ArbolesBinarios\\Practica5ArbolesBinarios.csproj",
         "projectName": "Practica5ArbolesBinarios",
-        "projectPath": "C:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica5ArbolesBinarios\\Practica5ArbolesBinarios.csproj",
+        "projectPath": "c:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica5ArbolesBinarios\\Practica5ArbolesBinarios.csproj",
         "packagesPath": "C:\\Users\\manuel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica5ArbolesBinarios\\obj\\",
+        "outputPath": "c:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica5ArbolesBinarios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manuel\\AppData\\Roaming\\NuGet\\NuGet.Config"

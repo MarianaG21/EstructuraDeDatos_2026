@@ -1,0 +1,15 @@
+C:\Users\manuel\Desktop\Estructura de datos\Practica3Inventario\bin\Debug\net10.0\Practica3Inventario.exe
+C:\Users\manuel\Desktop\Estructura de datos\Practica3Inventario\bin\Debug\net10.0\Practica3Inventario.deps.json
+C:\Users\manuel\Desktop\Estructura de datos\Practica3Inventario\bin\Debug\net10.0\Practica3Inventario.runtimeconfig.json
+C:\Users\manuel\Desktop\Estructura de datos\Practica3Inventario\bin\Debug\net10.0\Practica3Inventario.dll
+C:\Users\manuel\Desktop\Estructura de datos\Practica3Inventario\bin\Debug\net10.0\Practica3Inventario.pdb
+C:\Users\manuel\Desktop\Estructura de datos\Practica3Inventario\obj\Debug\net10.0\Practica3Inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manuel\Desktop\Estructura de datos\Practica3Inventario\obj\Debug\net10.0\Practica3Inventario.AssemblyInfoInputs.cache
+C:\Users\manuel\Desktop\Estructura de datos\Practica3Inventario\obj\Debug\net10.0\Practica3Inventario.AssemblyInfo.cs
+C:\Users\manuel\Desktop\Estructura de datos\Practica3Inventario\obj\Debug\net10.0\Practica3Inventario.csproj.CoreCompileInputs.cache
+C:\Users\manuel\Desktop\Estructura de datos\Practica3Inventario\obj\Debug\net10.0\Practica3Inventario.sourcelink.json
+C:\Users\manuel\Desktop\Estructura de datos\Practica3Inventario\obj\Debug\net10.0\Practica3Inventario.dll
+C:\Users\manuel\Desktop\Estructura de datos\Practica3Inventario\obj\Debug\net10.0\refint\Practica3Inventario.dll
+C:\Users\manuel\Desktop\Estructura de datos\Practica3Inventario\obj\Debug\net10.0\Practica3Inventario.pdb
+C:\Users\manuel\Desktop\Estructura de datos\Practica3Inventario\obj\Debug\net10.0\Practica3Inventario.genruntimeconfig.cache
+C:\Users\manuel\Desktop\Estructura de datos\Practica3Inventario\obj\Debug\net10.0\ref\Practica3Inventario.dll

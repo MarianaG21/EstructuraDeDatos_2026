@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica6ReferenciasYMemoria\\Practica6ReferenciasYMemoria.csproj": {}
+    "C:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica3Inventario\\Practica3Inventario.csproj": {}
   },
   "projects": {
-    "c:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica6ReferenciasYMemoria\\Practica6ReferenciasYMemoria.csproj": {
+    "C:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica3Inventario\\Practica3Inventario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica6ReferenciasYMemoria\\Practica6ReferenciasYMemoria.csproj",
-        "projectName": "Practica6ReferenciasYMemoria",
-        "projectPath": "c:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica6ReferenciasYMemoria\\Practica6ReferenciasYMemoria.csproj",
+        "projectUniqueName": "C:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica3Inventario\\Practica3Inventario.csproj",
+        "projectName": "Practica3Inventario",
+        "projectPath": "C:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica3Inventario\\Practica3Inventario.csproj",
         "packagesPath": "C:\\Users\\manuel\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica6ReferenciasYMemoria\\obj\\",
+        "outputPath": "C:\\Users\\manuel\\Desktop\\Estructura de datos\\Practica3Inventario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manuel\\AppData\\Roaming\\NuGet\\NuGet.Config"
