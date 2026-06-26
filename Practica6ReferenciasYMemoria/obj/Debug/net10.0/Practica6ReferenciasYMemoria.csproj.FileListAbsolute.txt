@@ -1,0 +1,15 @@
+C:\Users\manuel\Desktop\Estructura de datos\Practica6ReferenciasYMemoria\bin\Debug\net10.0\Practica6ReferenciasYMemoria.exe
+C:\Users\manuel\Desktop\Estructura de datos\Practica6ReferenciasYMemoria\bin\Debug\net10.0\Practica6ReferenciasYMemoria.deps.json
+C:\Users\manuel\Desktop\Estructura de datos\Practica6ReferenciasYMemoria\bin\Debug\net10.0\Practica6ReferenciasYMemoria.runtimeconfig.json
+C:\Users\manuel\Desktop\Estructura de datos\Practica6ReferenciasYMemoria\bin\Debug\net10.0\Practica6ReferenciasYMemoria.dll
+C:\Users\manuel\Desktop\Estructura de datos\Practica6ReferenciasYMemoria\bin\Debug\net10.0\Practica6ReferenciasYMemoria.pdb
+C:\Users\manuel\Desktop\Estructura de datos\Practica6ReferenciasYMemoria\obj\Debug\net10.0\Practica6ReferenciasYMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manuel\Desktop\Estructura de datos\Practica6ReferenciasYMemoria\obj\Debug\net10.0\Practica6ReferenciasYMemoria.AssemblyInfoInputs.cache
+C:\Users\manuel\Desktop\Estructura de datos\Practica6ReferenciasYMemoria\obj\Debug\net10.0\Practica6ReferenciasYMemoria.AssemblyInfo.cs
+C:\Users\manuel\Desktop\Estructura de datos\Practica6ReferenciasYMemoria\obj\Debug\net10.0\Practica6ReferenciasYMemoria.csproj.CoreCompileInputs.cache
+C:\Users\manuel\Desktop\Estructura de datos\Practica6ReferenciasYMemoria\obj\Debug\net10.0\Practica6ReferenciasYMemoria.sourcelink.json
+C:\Users\manuel\Desktop\Estructura de datos\Practica6ReferenciasYMemoria\obj\Debug\net10.0\Practica6ReferenciasYMemoria.dll
+C:\Users\manuel\Desktop\Estructura de datos\Practica6ReferenciasYMemoria\obj\Debug\net10.0\refint\Practica6ReferenciasYMemoria.dll
+C:\Users\manuel\Desktop\Estructura de datos\Practica6ReferenciasYMemoria\obj\Debug\net10.0\Practica6ReferenciasYMemoria.pdb
+C:\Users\manuel\Desktop\Estructura de datos\Practica6ReferenciasYMemoria\obj\Debug\net10.0\Practica6ReferenciasYMemoria.genruntimeconfig.cache
+C:\Users\manuel\Desktop\Estructura de datos\Practica6ReferenciasYMemoria\obj\Debug\net10.0\ref\Practica6ReferenciasYMemoria.dll
