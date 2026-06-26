@@ -1,0 +1,15 @@
+C:\Users\manuel\Desktop\Estructura de datos\Practica8\bin\Debug\net10.0\Practica8.exe
+C:\Users\manuel\Desktop\Estructura de datos\Practica8\bin\Debug\net10.0\Practica8.deps.json
+C:\Users\manuel\Desktop\Estructura de datos\Practica8\bin\Debug\net10.0\Practica8.runtimeconfig.json
+C:\Users\manuel\Desktop\Estructura de datos\Practica8\bin\Debug\net10.0\Practica8.dll
+C:\Users\manuel\Desktop\Estructura de datos\Practica8\bin\Debug\net10.0\Practica8.pdb
+C:\Users\manuel\Desktop\Estructura de datos\Practica8\obj\Debug\net10.0\Practica8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manuel\Desktop\Estructura de datos\Practica8\obj\Debug\net10.0\Practica8.AssemblyInfoInputs.cache
+C:\Users\manuel\Desktop\Estructura de datos\Practica8\obj\Debug\net10.0\Practica8.AssemblyInfo.cs
+C:\Users\manuel\Desktop\Estructura de datos\Practica8\obj\Debug\net10.0\Practica8.csproj.CoreCompileInputs.cache
+C:\Users\manuel\Desktop\Estructura de datos\Practica8\obj\Debug\net10.0\Practica8.sourcelink.json
+C:\Users\manuel\Desktop\Estructura de datos\Practica8\obj\Debug\net10.0\Practica8.dll
+C:\Users\manuel\Desktop\Estructura de datos\Practica8\obj\Debug\net10.0\refint\Practica8.dll
+C:\Users\manuel\Desktop\Estructura de datos\Practica8\obj\Debug\net10.0\Practica8.pdb
+C:\Users\manuel\Desktop\Estructura de datos\Practica8\obj\Debug\net10.0\Practica8.genruntimeconfig.cache
+C:\Users\manuel\Desktop\Estructura de datos\Practica8\obj\Debug\net10.0\ref\Practica8.dll
