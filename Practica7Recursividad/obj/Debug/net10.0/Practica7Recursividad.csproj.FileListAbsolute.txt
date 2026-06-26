@@ -1,0 +1,15 @@
+C:\Users\manuel\Desktop\Estructura de datos\Practica7Recursividad\bin\Debug\net10.0\Practica7Recursividad.exe
+C:\Users\manuel\Desktop\Estructura de datos\Practica7Recursividad\bin\Debug\net10.0\Practica7Recursividad.deps.json
+C:\Users\manuel\Desktop\Estructura de datos\Practica7Recursividad\bin\Debug\net10.0\Practica7Recursividad.runtimeconfig.json
+C:\Users\manuel\Desktop\Estructura de datos\Practica7Recursividad\bin\Debug\net10.0\Practica7Recursividad.dll
+C:\Users\manuel\Desktop\Estructura de datos\Practica7Recursividad\bin\Debug\net10.0\Practica7Recursividad.pdb
+C:\Users\manuel\Desktop\Estructura de datos\Practica7Recursividad\obj\Debug\net10.0\Practica7Recursividad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manuel\Desktop\Estructura de datos\Practica7Recursividad\obj\Debug\net10.0\Practica7Recursividad.AssemblyInfoInputs.cache
+C:\Users\manuel\Desktop\Estructura de datos\Practica7Recursividad\obj\Debug\net10.0\Practica7Recursividad.AssemblyInfo.cs
+C:\Users\manuel\Desktop\Estructura de datos\Practica7Recursividad\obj\Debug\net10.0\Practica7Recursividad.csproj.CoreCompileInputs.cache
+C:\Users\manuel\Desktop\Estructura de datos\Practica7Recursividad\obj\Debug\net10.0\Practica7Recursividad.sourcelink.json
+C:\Users\manuel\Desktop\Estructura de datos\Practica7Recursividad\obj\Debug\net10.0\Practica7Recursividad.dll
+C:\Users\manuel\Desktop\Estructura de datos\Practica7Recursividad\obj\Debug\net10.0\refint\Practica7Recursividad.dll
+C:\Users\manuel\Desktop\Estructura de datos\Practica7Recursividad\obj\Debug\net10.0\Practica7Recursividad.pdb
+C:\Users\manuel\Desktop\Estructura de datos\Practica7Recursividad\obj\Debug\net10.0\Practica7Recursividad.genruntimeconfig.cache
+C:\Users\manuel\Desktop\Estructura de datos\Practica7Recursividad\obj\Debug\net10.0\ref\Practica7Recursividad.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Practica7Recursividad/1.0.0": {
+        "runtime": {
+          "Practica7Recursividad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica7Recursividad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
